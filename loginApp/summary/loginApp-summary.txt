@@ -1,0 +1,5 @@
+--Login App--
+
+>fungsi login : input username dan password untuk autentikasi identitas pengguna
+>functional component tidak bisa menggunakan state / lifecycle method didalamnya
+>dalam sistem login ini menggunakan react hooks untuk management state
